@@ -22,6 +22,66 @@
   * 1.2
 * **Enable font ligadures**
 
+### [File | Settings | Editor | Code Style](jetbrains://WebStorm/settings?name=Editor--Code+Style)
+* **HTML**
+  * Tabs and Indents
+     * Tab size: 2
+     * Indent: 2 
+     * Continuation Indent: 2
+     
+* **JSON**
+  * Tabs and Indents
+     * Tab size: 2
+     * Indent: 2 
+     * Continuation Indent: 2
+     
+* **VUE**
+  * Tabs and Indents
+     * Tab size: 2
+     * Indent: 2 
+     * Continuation Indent: 2
+     
+* **Javascript**
+  * Tabs and Indents
+     * Tab size: 2
+     * Indent: 2 
+     * Continuation Indent: 2
+   * Spaces
+     * Within
+       * [x] Interpolation expressions
+       * [x] Object literal braces
+       * [x] ES6 Import/export braces
+   * Puntuation
+     * **use** semicolon to terminate statements **always**
+     * use **single** quotes **always**
+     * trailing comma **Add when multiline**
+
+* **Typescript**
+  * Tabs and Indents
+     * Tab size: 2
+     * Indent: 2 
+     * Continuation Indent: 2
+   * Spaces
+     * Within
+       * [x] Interpolation expressions
+       * [x] Object literal braces
+       * [x] ES6 Import/export braces
+   * Puntuation
+     * **use** semicolon to terminate statements **always**
+     * use **single** quotes **always**
+     * trailing comma **Add when multiline**
+   * Code Generation
+     * [x] Prefer 'as' type casts
+
+* **Java**
+  * Tabs and Indents
+     * Tab size: 2
+     * Indent: 2 
+     * Continuation Indent: 2
+  * Spaces
+     * Within
+       * [x] Array initializer braces 
+
 ### [File | Settings | Keymap](jetbrains://WebStorm/settings?name=Keymap)
 * **Eclipse Copy**
 * **CommentByBlockComment**
