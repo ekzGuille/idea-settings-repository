@@ -5,7 +5,7 @@
 
 ## Ajustes a tener en cuenta
 
-### [File | Settings | Other Settings | GitToolBox Project](jetbrains://WebStorm/settings?name=Other+Settings--GitToolBox+Project)
+### [File | Settings | Other Settings | GitToolBox Global](jetbrains://WebStorm/settings?name=Other+Settings--GitToolBox+Global)
 * **Bame**
   * Author Name: Full Name
 
