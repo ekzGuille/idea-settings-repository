@@ -5,6 +5,12 @@
 
 ## Ajustes a tener en cuenta
 
+### **Plugins instalados**
+* [Monokai Pro](https://plugins.jetbrains.com/plugin/13643-monokai-pro-theme/).
+* [Rainbow Brackets](https://plugins.jetbrains.com/plugin/10080-rainbow-brackets).
+* [GitToolBox](https://plugins.jetbrains.com/plugin/7499-gittoolbox).
+
+
 ### [File | Settings | Other Settings | GitToolBox Global](jetbrains://WebStorm/settings?name=Other+Settings--GitToolBox+Global)
 * **Bame**
   * Author Name: Full Name
