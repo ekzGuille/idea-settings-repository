@@ -10,6 +10,8 @@
 * [Rainbow Brackets](https://plugins.jetbrains.com/plugin/10080-rainbow-brackets).
 * [GitToolBox](https://plugins.jetbrains.com/plugin/7499-gittoolbox).
 
+### **Fuente**
+* [Hasklig](https://github.com/i-tu/Hasklig/)
 
 ### [File | Settings | Other Settings | GitToolBox Global](jetbrains://WebStorm/settings?name=Other+Settings--GitToolBox+Global)
 * **Bame**
