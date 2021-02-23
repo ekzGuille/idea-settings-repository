@@ -56,7 +56,8 @@
      * Continuation Indent: 2
    * Spaces
      * Within
-       * [x] Interpolation expressions
+       * [ ] Array Braces
+       * [ ] Interpolation expressions
        * [x] Object literal braces
        * [x] ES6 Import/export braces
    * Puntuation
@@ -71,7 +72,8 @@
      * Continuation Indent: 2
    * Spaces
      * Within
-       * [x] Interpolation expressions
+       * [ ] Array Braces
+       * [ ] Interpolation expressions
        * [x] Object literal braces
        * [x] ES6 Import/export braces
    * Puntuation
