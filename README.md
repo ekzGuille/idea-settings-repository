@@ -28,7 +28,7 @@
   * 12
 * **Line spacing**
   * 1.2
-* **Enable font ligadures**
+* * [x] **Enable font ligadures**
 
 ### [File | Settings | Editor | Code Style](jetbrains://WebStorm/settings?name=Editor--Code+Style)
 * **HTML**
@@ -103,8 +103,8 @@
   * ctrl divide
   * shift ctrl c
 
-* **DatabaseView.CopyDdlAction**
-  * shift ctrl alt g
+* **EditorAddOrRemoveCaret**
+  * alt button1
 
 * **EditorCloneCaretAbove**
   * shift ctrl up
@@ -115,9 +115,28 @@
 * **EditorDuplicateLines**
   * shift alt down
 
+* **~MoveStatementDown~ MoveLineDown**
+  * alt down
+
+* **~MoveStatementUp~ MoveLineUp**
+  * alt down
+  
+* **EditorDuplicateLines**
+  * shift alt down
+  
+* **EditorSelectWord**
+  * shift alt up
+
 * **Generate**
   * alt insert
   * ctrl n
+
+* **ShowPopupMenu** 
+  * ~ctrl n~
+  * (...)
+  
+* **NewFolder**
+  * alt insert
 
 * **SelectAllOccurrences**
   * ctrl alt y
@@ -126,3 +145,4 @@
 * **SelectNextOccurrence**
   * alt y
   * shift ctrl d
+
