@@ -15,7 +15,8 @@
 
 ### [File | Settings | Other Settings | GitToolBox Global](jetbrains://WebStorm/settings?name=Other+Settings--GitToolBox+Global)
 * **Bame**
-  * Author Name: Full Name
+  * Editor inline blame > Author Name: Full Name
+  * Status bar blame > Author Name: Full Name
 
 ### [File | Settings | Appearance & Behavior | Appearance](jetbrains://WebStorm/settings?name=Appearance+%26+Behavior--Appearance)
 * **Theme**
