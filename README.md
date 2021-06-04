@@ -165,7 +165,7 @@
         * `alt down`
 
     * **~MoveStatementUp~ MoveLineUp**
-        * `alt down`
+        * `alt up`
 
     * **EditorDuplicateLines**
         * `shift alt down`
