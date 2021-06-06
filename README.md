@@ -27,6 +27,7 @@
 * [Monokai Pro](https://plugins.jetbrains.com/plugin/13643-monokai-pro-theme/).
 * [Rainbow Brackets](https://plugins.jetbrains.com/plugin/10080-rainbow-brackets).
 * [GitToolBox](https://plugins.jetbrains.com/plugin/7499-gittoolbox).
+* [Activar **eslint**](https://www.jetbrains.com/help/idea/eslint.html#ws_js_eslint_activate) :warning:
 
 [🔝](#tabla-de-contenidos)
 
